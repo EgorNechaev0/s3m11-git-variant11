@@ -1,3 +1,4 @@
 Second file
 Change in test1
 Change in test2
+Another change
