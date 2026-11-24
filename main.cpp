@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std::cout << "Hello again from test5" << std::endl;
+    std::cout << "Main version" << std::endl;
     return 0;
 }
